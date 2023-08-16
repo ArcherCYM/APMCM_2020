@@ -1,5 +1,5 @@
 # APMCM_2020
-***2020 Asia and Pacific Mathematical Contest in Modeling. ***
+***2020 Asia and Pacific Mathematical Contest in Modeling.***
 
 ---
 
